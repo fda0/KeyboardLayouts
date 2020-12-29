@@ -14,6 +14,8 @@ Run setup.exe.
 
 Change your keyboard layout in wonderful Microsoft Windows.
 
+![Installing 1](screenshot1.png)
+![Installing 2](screenshot2.png)
 
 ## Uninstalling
-![Screenshot](uninstall.png)
+![Uninstall](uninstall.png)
